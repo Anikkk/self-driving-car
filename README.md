@@ -22,6 +22,9 @@ With mutiple times training the model, the optimum value of the weight, bias, le
 [0.1455607695638779,-0.24065409444568356,0.1481754674997934,-0.130410504823829]]}]}
 
 
+working model : https://anikkk.github.io/self-driving-car/
+
+
 
 
  
